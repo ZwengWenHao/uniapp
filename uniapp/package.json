@@ -1,0 +1,18 @@
+{
+    "id": "lang-qrcode",
+    "name": "前端生成二维码qrcode",
+    "version": "1.0.0",
+    "description": "简单的前端生成二维码组件，方便自定义",
+    "keywords": [
+        "二维码，qrcode，简单，可自定义"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    },
+    "dependencies": {
+        "dayjs": "^1.11.5"
+    }
+}

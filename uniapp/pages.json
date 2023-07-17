@@ -1,0 +1,35 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页",
+			"enablePullDownRefresh": true,
+			"navigationStyle": "custom",
+			"navigationBarTextStyle": "white"
+		}
+	}
+    ],
+	"subPackages": [{
+			"root": "pagesA",
+			"pages": []
+		},
+		{
+			"root": "pagesB",
+			"pages": []
+		},
+		{
+			"root": "pagesC",
+			"pages": []
+		}
+	],
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#66C18E",
+		"backgroundColor": "#F9FFFC",
+		"app-plus": {
+			"background": "#F9FFFC"
+		}
+	}
+}
